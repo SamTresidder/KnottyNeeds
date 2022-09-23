@@ -1,8 +1,4 @@
-body{
-    background-color: steelblue;
-}
-
-.nav-design{
-    background-color: aquamarine;
-    font-family: Arial, Helvetica, sans-serif;
+.img-circle{
+    border-radius: 40%;
+    background-color: red;
 }
