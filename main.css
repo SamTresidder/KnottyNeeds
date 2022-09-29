@@ -139,10 +139,11 @@ nav li{
     }
 }
 
-nav a{
-    text-decoration: none;
-    color: white;
+a:hover{
+    font-size: larger;
+    font-weight: 800;
 }
+
 /* Nav Style End */
 
 /*End Header CSS*/
