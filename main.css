@@ -111,6 +111,7 @@ nav a{
     overflow-x: auto;
     overscroll-behavior-inline: contain;
 
+
     text-align: center;
 }
 
@@ -123,7 +124,15 @@ nav a{
 }
 
 .media-element img{
-    width: 100%;
+    inline-size: 100%;
+}
+
+.snaps-inline{
+    scroll-snap-type: x mandatory;
+}
+
+.snaps-inline > *{
+    scroll-snap-align: start;
 }
 
 /*.container{
