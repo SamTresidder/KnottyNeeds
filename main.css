@@ -249,6 +249,11 @@ nav a{
     height: auto;
 }
 
+.gallery-img img:hover{
+    width: 100%;
+    height:auto;
+}
+
 @media (min-width: 1024px) {
     .gallery-img img{
     width: 98%;
