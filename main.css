@@ -258,6 +258,12 @@ nav a{
 
 /*Start Recent Project Gallery*/
 
+/* Start Pre Footer Force Gap */
+.pre-footer-force-gap{
+    height: 6rem;
+}
+/* End Pre Footer Force Gap */
+
 /*Start Footer*/
 footer{
     display: flex;
