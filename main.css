@@ -3,6 +3,7 @@ body{
     height: 100vh;
     background-color: #284463;
 }
+
 /*Start header CSS*/
 header{
     display: grid;
@@ -18,6 +19,7 @@ header{
     }
     
 }
+
 
 /*Image Style Start*/
 .header-img{
@@ -65,8 +67,9 @@ header img{
         margin-left: 8%;
     }    
 }
-
 /*Image Style End*/
+
+
 /*Nav Style Start*/
 .header-nav{
     display: flex;
@@ -140,13 +143,11 @@ nav a{
     text-decoration: none;
     color: white;
 }
-
-/*Image Style End*/
+/* Nav Style End */
 
 /*End Header CSS*/
 
 /*Start Image carousel*/
-
 .hero-img{
     opacity: .5;
     background-color: white;
@@ -175,7 +176,6 @@ nav a{
 /*End Image carousel*/
 
 /*Start Recent Project Gallery*/
-
 /* Start Recent Project Gallery Header */
 .gallery-header{
     width: 100%;
@@ -197,8 +197,9 @@ nav a{
     font-size: 1.5rem;
     padding: .5rem;
 }
-
 /* End Recent Project Gallery Header */
+
+/* Start Image Gallery */
 .gallery-container{
     background-color: #284463;
     display: flex;
@@ -254,9 +255,8 @@ nav a{
     height: auto;
     }    
 }
-
-
-/*Start Recent Project Gallery*/
+/* End Image Gallery */
+/* End Recent Project Gallery */
 
 /* Start Pre Footer Force Gap */
 .pre-footer-force-gap{
